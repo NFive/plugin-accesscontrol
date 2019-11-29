@@ -1,0 +1,8 @@
+name: NFive/plugin-accesscontrol
+version: 0.1.0
+description: Access control system based on roles
+author: NFive
+license: LGPL-3.0-or-later
+server:
+  main:
+    - NFive.AccessControl.Server
